@@ -18,3 +18,12 @@
 Для установки необхолдимо ввести:
 
     pip install имя_библиотеки
+
+# Скриншоты
+<div align = "center">
+    <img align = "center" src="./screenshots/hub.png" width="300px">
+    <img align = "center" src="./screenshots/main.png" width="527px">
+    <p></p>
+    <img align = "center" src="./screenshots/stats.png" width="413">
+    <img align = "center" src="./screenshots/graph_settings.png" width="414px">
+</div>
